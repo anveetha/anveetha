@@ -2,7 +2,7 @@
 
 🎓 The University of Texas at Dallas
 📚 Studying Data Science, minors in Cognitive Science and Finance
-💡  Interest in Data Science, Machine Learning, Statistical Modeling, Cognitive and Neural Modeling
+💡 Interest in Data Science, Machine Learning, Statistical Modeling, Cognitive and Neural Modeling
 🌱 Always learning | 🧠 Curious about cognition | 💡 Blending data with insight
 
 I'm passionate about applying data science and machine learning to real-world problems—especially at the intersection of human behavior and AI. Currently exploring statistical ML, cognitive modeling, and the power of data-driven solutions across domains like healthcare, finance, and tech.
