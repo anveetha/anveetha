@@ -14,7 +14,7 @@ Always open to collaborating, building, and learning something new. Let’s conn
 
 ---
 
-##🏠 Home Value Predictor | R & Multiple Linear Regression  
+## 🏠 Home Value Predictor | R & Multiple Linear Regression  
 Overview:  
 - Designed a predictive model to estimate home prices using real estate data from Realtor.com. Focused on key features such as bedrooms, bathrooms, zip code, and square footage.
 Key Tools: R, ggplot2, dplyr, linear regression  
