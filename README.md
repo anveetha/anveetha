@@ -10,7 +10,7 @@ As President of the Artificial Intelligence Society at UTD, I lead 400+ members 
 
 Always open to collaborating, building, and learning something new. Let’s connect!  
 
-🧠 Ask me about my experience as a [Break Through Tech Fellow] or as being the president of the Artificial Intelligence Society at UTD!  
+🧠 Ask me about my experience as a Break Through Tech Fellow or as being the president of the Artificial Intelligence Society at UTD!  
 
 ---
 
