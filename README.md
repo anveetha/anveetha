@@ -4,15 +4,6 @@
 📚 Studying Data Science, minors in Cognitive Science and Finance  
 💡 Interest in Data Science, Machine Learning, Statistical Modeling, Cognitive and Neural Modeling  
 
-I'm passionate about applying data science and machine learning to real-world problems—especially at the intersection of human behavior and AI. Currently exploring statistical ML, cognitive modeling, and the power of data-driven solutions across domains like healthcare, finance, and tech.  
-
-As President of the Artificial Intelligence Society at UTD, I lead 400+ members and organize HackAI—one of the largest student-led AI hackathons in the U.S. I'm also a Machine Learning Fellow at Break Through Tech, where I work on projects promoting AI equity and accessibility.  
-
-Always open to collaborating, building, and learning something new. Let’s connect!  
-
-🧠 Ask me about my experience as a Break Through Tech Fellow or as being the president of the Artificial Intelligence Society at UTD!  
-
----
 
 ## 🏠 Home Value Predictor | R & Multiple Linear Regression  
 Overview:  
