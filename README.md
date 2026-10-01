@@ -40,11 +40,3 @@ Highlights:
 - 💼 LinkedIn: www.linkedin.com/in/anveetha-suresh-4ab133247
 - 🧑‍💻 GitHub: github.com/anveetha
   
----
-
-## ✨ Fun Facts
-You'll typically find me with some form of caffeine in my hand and headphones on -- I love making coffee and listening to the biggest variety of music out there!
-Not only that, I love exploring about machine learnining and statistical methods as well as the ethics of AI. 
-I'm currently reading Algorithnms for Life by Brian Christian and Tom Griffiths!
-
----
